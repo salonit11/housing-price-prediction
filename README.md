@@ -1,7 +1,3 @@
-Here's the updated **README** for your **House Price Prediction** project, without hyperparameter tuning or one-hot encoding.  
-
----
-
 # House Price Prediction
 
 ## Project Overview
